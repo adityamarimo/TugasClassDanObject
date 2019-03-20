@@ -1,0 +1,5 @@
+E:\Tugas\Pemrogramman\Tugas 2\TugasClassDanObject\TugasClassDanObject\bin\Debug\TugasClassDanObject.exe.config
+E:\Tugas\Pemrogramman\Tugas 2\TugasClassDanObject\TugasClassDanObject\bin\Debug\TugasClassDanObject.exe
+E:\Tugas\Pemrogramman\Tugas 2\TugasClassDanObject\TugasClassDanObject\bin\Debug\TugasClassDanObject.pdb
+E:\Tugas\Pemrogramman\Tugas 2\TugasClassDanObject\TugasClassDanObject\obj\Debug\TugasClassDanObject.exe
+E:\Tugas\Pemrogramman\Tugas 2\TugasClassDanObject\TugasClassDanObject\obj\Debug\TugasClassDanObject.pdb
